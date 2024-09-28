@@ -7,6 +7,7 @@ Master Data Analysis: Python, Statistics, EDA, Feature Engineering, Power BI, an
 PYTHON
 
 
+
 Section 1: Introduction To The Course
 
 Section 2: Getting Started with Python
@@ -16,7 +17,9 @@ Section 3: Complete Python With Impotannt Libraries
 Section 4: Data Analysis With Python
 
 
+
 STATISTICS
+
 
 
 Section 5: Getting Started With Statistics
@@ -32,7 +35,9 @@ Section 9: Feature Engineering With Python
 Section 10: Exploratory Data Analysis (EDA)
 
 
+
 MICROSOFT SQL
+
 
 
 Section 11: Introduction to SQL
@@ -50,7 +55,9 @@ Section 16: Advanced SQL
 Section 17: SQL Impotant Interview Questions
 
 
-Visualization Tools - POWER BI
+
+VISUALIZATION TOOLS  -  POWER BI
+
 
 
 Section 18: Introduction to Power BI
@@ -70,7 +77,9 @@ Sectiom 24: Power BI Project 3, UPI Transections Data Analysis
 Section 25: Miscellaneous Section Power BI
 
 
+
 MICROSOFT EXCEL
+
 
 
 Sections 26: Getting Stated with Microsoft Excel
